@@ -1,0 +1,5 @@
+route,spname,spparams,method
+/this/test/<string:somename>,getSpName,"testget1,testget2,testget3,testget4",get
+/this/test/<string:anothername>,postSpName,"testpost1,testpost2,testpost3,testpost4",post
+/testing,getSpName2,simpleparam,get
+/testing,delSpName,simpleparam,delete
