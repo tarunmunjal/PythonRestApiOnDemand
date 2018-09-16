@@ -11,7 +11,7 @@ If the route contains variable e.g. /this/test/<string:param1>/<string:param2> p
 in for stored procedure call.
 Stored procedre call will contain all the parameters sequentially as they are provided in the csv.
 
-The python api will require the parameters to be passed to run. 
+Resulting RestApi api will require the parameters to be passed to run. 
 It will require Database name,server/ip,username,password
 
 Example:
