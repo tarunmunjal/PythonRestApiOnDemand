@@ -18,3 +18,9 @@ Example:
 ========
 
 python GenerateResApiOnDemand.py -in ~/testing.csv ~/restapi.py
+
+
+Sample:
+======
+
+The example.csv file was used to generate example.py using this script.
